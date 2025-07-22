@@ -1,6 +1,6 @@
-<!-- Profile Header -->
+<!-- 🌟 Header -->
 <h1 align="center">Hi there 👋, I'm Komal</h1>
-<h3 align="center">Frontend Web Developer | UI/UX Enthusiast | Code & Creativity 💡</h3>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | Creative Coder 💡</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -14,11 +14,11 @@
 
 ### 👩‍💻 About Me
 
-- 🎯 Frontend Developer passionate about interactive design  
-- 💼 Working on: `Jawfex Website Template`
-- 🧠 Learning: `React`, `TailwindCSS`, `Next.js`
-- 🎨 Tools: `Figma`, `VS Code`, `Git`, `Bootstrap`
-- 💌 Email: **komalrajput621097@gmail.com**
+- 🔭 Currently working on: **Jawfex eCommerce UI Template**
+- 💡 Learning: **React.js**, **TailwindCSS**, **Next.js**
+- 🎨 Designing in: **Figma**
+- ✉️ Email: **komal.yourname@gmail.com**
+- ⚡ Fun fact: *I break code to fix it better!*
 
 ---
 
@@ -30,11 +30,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ Skill Level
+
+| Skill | Progress |
+|-------|----------|
+| HTML/CSS | ![90%](https://progress-bar.dev/90/?title=HTML+%26+CSS&width=200) |
+| JavaScript | ![80%](https://progress-bar.dev/80/?title=JavaScript&width=200) |
+| Bootstrap/Tailwind | ![85%](https://progress-bar.dev/85/?title=Bootstrap+%2F+Tailwind&width=200) |
+| React.js | ![60%](https://progress-bar.dev/60/?title=React.js&width=200) |
+
+---
+
+### 🌟 GitHub Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomalAslam&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KomalAslam&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komal-aslam&theme=github_dark" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komal-aslam&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=komal-aslam&theme=transparent&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -42,27 +61,35 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalAslam&layout=compact&theme=transparent&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-aslam&layout=compact&theme=transparent&hide_border=true" width="40%"/>
 </p>
 
 ---
 
-### 🧩 Projects
+### 💼 Featured Projects
 
-| 💼 Project | 🔎 Description | 🔗 Live |
-|-----------|----------------|--------|
-| **Jawfex Template** | Custom UI for an eCommerce website | [View Demo](https://komal-aslam.github.io/Jawfex-website-template/) |
-| **Portfolio (Coming Soon)** | Personal portfolio with animations | 🚧 Under Construction |
-| **KokoStore UI Clone** | Shopify-inspired modern eCommerce UI | 🚧 Coming Soon |
+| Project | Description | Live |
+|---------|-------------|------|
+| 💎 Jawfex Template | Custom UI for an eCommerce site | [Live Demo](https://komal-aslam.github.io/Jawfex-website-template/) |
+| 🎨 Portfolio (Coming Soon) | Personal animated portfolio | 🚧 Under Construction |
+| 🛍 KokoStore Clone | Shopify-style UI project | 🚧 Coming Soon |
 
 ---
 
-### 📬 Let's Connect
+### 🎬 Dev Life
 
 <p align="center">
-  <a href="mailto:komalrajput621097@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:komal.yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/KomalAslam"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/komal-aslam"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -70,24 +97,14 @@
 ### 🔢 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KomalAslam&label=Profile+Views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=komal-aslam&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
-### 💬 Quote of the Day
+### 💬 Dev Quote
 
-> “Design adds value faster than it adds costs.” — *Joel Spolsky*
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=100&section=footer"/>
-</p>
-
----
-
-### 🌟 Aesthetic Footer
+> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=100&section=footer"/>
