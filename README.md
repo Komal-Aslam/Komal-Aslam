@@ -36,8 +36,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomalRajputDev&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KomalRajputDev&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KomalAslamDev&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KomalAslamDev&theme=transparent&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalRajputDev&layout=compact&theme=transparent&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalAslamDev&layout=compact&theme=transparent&hide_border=true" width="40%"/>
 </p>
 
 
@@ -54,7 +54,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalRajputDev&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalAslamDev&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🔥 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KomalRajputDev&label=Profile+Views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=KomalAslamDev&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:komal.yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:komalrajput621097@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/KomalRajputDev"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
