@@ -22,11 +22,6 @@
 
 ---
 
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,vscode,github,git" />
-</p>
 
 ---
 ### 🛠️ Tech Toolbox
