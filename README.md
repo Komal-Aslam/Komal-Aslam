@@ -29,14 +29,38 @@
 </p>
 
 ---
-### ⚙️ Skill Level
+### 🛠️ Tech Toolbox
 
-| Skill | Level |
-|-------|-------|
-| HTML/CSS | ![90%](https://progress-bar.dev/90/?title=HTML+%26+CSS&width=200) |
-| JavaScript | ![80%](https://progress-bar.dev/80/?title=JavaScript&width=200) |
-| Bootstrap/Tailwind | ![85%](https://progress-bar.dev/85/?title=Bootstrap+%2F+Tailwind&width=200) |
-| React.js | ![60%](https://progress-bar.dev/60/?title=React.js&width=200) |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,github,vscode,git" />
+</p>
+
+---
+
+### 🚀 Skill Progress
+
+#### 🧱 Frontend Development
+- 💻 **HTML / CSS**: ██████████░░░ 90%  
+- 🎨 **Bootstrap / Tailwind**: █████████░░░ 85%  
+- ⚛️ **React.js**: ███████░░░░░░ 60%  
+- 🧠 **JavaScript (ES6)**: █████████░░░ 80%  
+
+#### 🎨 UI / Design
+- ✏️ **Figma**: ████████░░░░ 75%  
+- 🖼️ **Responsive Design**: █████████░░░ 85%  
+
+#### 🧰 Tools & Workflow
+- 🔧 **Git / GitHub**: ████████░░░░ 70%  
+- 🖥️ **VS Code**: █████████░░░ 85%  
+- 📦 **npm / CLI Tools**: ███████░░░░░░ 60%
+
+---
+
+### 🧠 Currently Learning
+- 🔹 **Next.js** for React-based SSR
+- 🔹 **GSAP / Framer Motion** for UI animations
+- 🔹 **Netlify / Vercel** for project deployment
+
 
 
 
