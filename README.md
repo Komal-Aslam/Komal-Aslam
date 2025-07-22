@@ -1,29 +1,32 @@
-<h1 align="center">Hi 👋, I'm Komal Aslam</h1>
-<h3 align="center">A passionate Frontend Web Developer from Pakistan</h3>
+<!-- Header Section -->
+<h1 align="center">Hey there 👋, I'm Komal</h1>
+<h3 align="center">💻 Frontend Developer | 🎨 UI/UX Designer | 💡 Creative Thinker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Bootstrap+%7C+HTML+%7C+CSS+%7C+JS;Always+learning+new+things&center=true&width=440&height=45" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=700&lines=Designing+User-Friendly+Web+Experiences;Turning+Ideas+into+Reality+with+Code;Creating+Clean+%26+Modern+Frontend+Layouts" alt="Typing animation" />
 </p>
 
 ---
 
-- 🌱 I’m currently learning **JavaScript**, **SCSS**, and **responsive web design**
-- 👨‍💻 All of my projects are available at: [My GitHub Repositories](https://github.com/Komal-Aslam?tab=repositories)
-- 💬 Ask me about **HTML, CSS, Bootstrap, or Git**
-- 📫 How to reach me: **komalaslam123456@gmail.com**
-- ⚡ Fun fact: I love building websites that are simple, clean, and user-friendly.
+### 👩‍💻 About Me
+
+- 🌟 Frontend Developer focused on clean, responsive web interfaces  
+- 🛠 Building: `Jawfex Website Template`
+- 📚 Learning: `React`, `TailwindCSS`, `Next.js`
+- 🎨 Designing in: `Figma`
+- ✨ Goal: Become a full-stack dev (MERN stack)
+- 📫 Email me: **komalrajput621097@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🚀 My Toolbox
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,vscode,github,git" />
 </p>
 
 ---
@@ -31,20 +34,51 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Komal-Aslam&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komal-Aslam&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KomalRajputDev&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KomalRajputDev&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-### 🌐 Connect with me:
+### 📊 Contribution Graph
 
-<p>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:komalaslam123456@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalRajputDev&theme=react-dark&area=true&hide_border=true" />
 </p>
+
+---
+
+### 🔥 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KomalRajputDev&label=Profile+Views&color=brightgreen&style=flat" />
+</p>
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| 💎 Jawfex Template | Custom eCommerce frontend UI design | [View](https://komal-aslam.github.io/Jawfex-website-template/) |
+| 🎨 Portfolio (Soon) | Personal portfolio with animations | Coming Soon |
+| 🛍 KokoStore Clone | Modern eCommerce UI (Shopify style) | Coming Soon |
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:komal.yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/KomalRajputDev"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🌟 Aesthetic Footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=100&section=footer"/>
+</p>
+
