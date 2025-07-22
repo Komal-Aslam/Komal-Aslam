@@ -29,15 +29,16 @@
 </p>
 
 ---
-
 ### ⚙️ Skill Level
 
-| Skill | Progress |
-|-------|----------|
+| Skill | Level |
+|-------|-------|
 | HTML/CSS | ![90%](https://progress-bar.dev/90/?title=HTML+%26+CSS&width=200) |
 | JavaScript | ![80%](https://progress-bar.dev/80/?title=JavaScript&width=200) |
 | Bootstrap/Tailwind | ![85%](https://progress-bar.dev/85/?title=Bootstrap+%2F+Tailwind&width=200) |
 | React.js | ![60%](https://progress-bar.dev/60/?title=React.js&width=200) |
+
+
 
 ---
 
