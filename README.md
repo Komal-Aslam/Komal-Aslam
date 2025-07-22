@@ -17,7 +17,7 @@
 - 🔭 Currently working on: **Jawfex eCommerce UI Template**
 - 💡 Learning: **React.js**, **TailwindCSS**, **Next.js**
 - 🎨 Designing in: **Figma**
-- ✉️ Email: **komal.yourname@gmail.com**
+- ✉️ Email: **komalrajput621097@gmail.com**
 - ⚡ Fun fact: *I break code to fix it better!*
 
 ---
@@ -117,7 +117,7 @@
 
 ### 🔢 Visitor Counter
 
-<a href="https://orcid.org/0009-0001-2345-6789" target="_blank">
+<a href="https://orcid.org/0009-0006-5042-8955" target="_blank">
   <img src="https://img.shields.io/badge/ORCID-Profile-green?logo=orcid&style=flat-square" alt="ORCID">
 </a>
 
