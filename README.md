@@ -29,9 +29,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,github,vscode,git" />
 </p>
-<a href="https://orcid.org/0009-0001-2345-6789" target="_blank">
-  <img src="https://img.shields.io/badge/ORCID-Profile-green?logo=orcid&style=flat-square" alt="ORCID">
-</a>
+
 
 ---
 
@@ -119,9 +117,10 @@
 
 ### 🔢 Visitor Counter
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=komal-aslam&label=Profile+Views&color=brightgreen&style=flat" />
-</p>
+<a href="https://orcid.org/0009-0001-2345-6789" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-Profile-green?logo=orcid&style=flat-square" alt="ORCID">
+</a>
+
 
 ---
 
