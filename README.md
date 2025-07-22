@@ -36,8 +36,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomalAslamDev&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KomalAslamDev&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KomalAslam&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KomalAslam&theme=transparent&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalAslamDev&layout=compact&theme=transparent&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalAslam&layout=compact&theme=transparent&hide_border=true" width="40%"/>
 </p>
 
 
@@ -54,7 +54,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalAslamDev&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomalAslam&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### 🔥 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KomalAslamDev&label=Profile+Views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=KomalAslam&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
 ---
