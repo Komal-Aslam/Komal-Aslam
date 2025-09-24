@@ -1,65 +1,134 @@
-# 👋 Hi, I'm Komal Aslam  
+<!-- 🌟 Header -->
+<h1 align="center">Hi there 👋, I'm Komal</h1>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | Creative Coder 💡</h3>
 
-🚀 **Frontend Web Developer** | 💻 UI/UX Enthusiast | 🌍 Open for Opportunities  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-I specialize in building **responsive, modern, and user-friendly web interfaces** using the latest technologies.  
-Currently seeking **Frontend Developer roles** where I can contribute my skills in **HTML, CSS, Bootstrap, JavaScript, and React** to create impactful digital experiences.  
-
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com)
-
----
-
-## 💼 What I Can Deliver  
-
-✔️ Responsive business websites & landing pages  
-✔️ E-commerce frontends with product listing & payment flow  
-✔️ Portfolio & personal branding websites  
-✔️ UI/UX design implementation (Figma → Code)  
-✔️ Website optimization for performance & SEO  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&multiline=true&width=700&lines=Crafting+Modern+Frontends+with+❤️;Designing+Responsive+and+Clean+UI/UX;Exploring+React,+TailwindCSS+and+Next.js" alt="Typing animation" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+### 👩‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+- 🔭 Currently working on: **Jawfex eCommerce UI Template**
+- 💡 Learning: **React.js**, **TailwindCSS**, **Next.js**
+- 🎨 Designing in: **Figma**
+- ✉️ Email: **komalrajput621097@gmail.com**
+- ⚡ Fun fact: *I break code to fix it better!*
 
 ---
 
-## 🌟 Featured Projects  
 
-🔹 **Jawfex Template**  
-🛒 E-Commerce UI template with responsive design.  
-👉 [Live Demo](https://komal-aslam.github.io/) | [Repo](https://github.com/Komal-Aslam/Jawfex)  
+---
+### 🛠️ Tech Toolbox
 
-🔹 **Wokxxe Brand Presentation**  
-🎨 Dark-themed fashion brand showcase website.  
-👉 [Repo](https://github.com/Komal-Aslam/Wokxxe)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,figma,github,vscode,git" />
+</p>
 
-🔹 **KokoStore Clone**  
-🛍️ Shopify-style UI clone with Bootstrap.  
-👉 [Repo](https://github.com/Komal-Aslam/KokoStore)  
 
 ---
 
-## 📊 GitHub Stats  
+### 🚀 Skill Progress
 
-![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Komal-Aslam&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-Aslam&layout=compact&theme=radical)  
+#### 🧱 Frontend Development
+- 💻 **HTML / CSS**: ██████████░░░ 90%  
+- 🎨 **Bootstrap / Tailwind**: █████████░░░ 85%  
+- ⚛️ **React.js**: ███████░░░░░░ 60%  
+- 🧠 **JavaScript (ES6)**: █████████░░░ 80%  
+
+#### 🎨 UI / Design
+- ✏️ **Figma**: ████████░░░░ 75%  
+- 🖼️ **Responsive Design**: █████████░░░ 85%  
+
+#### 🧰 Tools & Workflow
+- 🔧 **Git / GitHub**: ████████░░░░ 70%  
+- 🖥️ **VS Code**: █████████░░░ 85%  
+- 📦 **npm / CLI Tools**: ███████░░░░░░ 60%
 
 ---
 
-## 📫 Let's Connect  
+### 🧠 Currently Learning
+- 🔹 **Next.js** for React-based SSR
+- 🔹 **GSAP / Framer Motion** for UI animations
+- 🔹 **Netlify / Vercel** for project deployment
 
-- ✉️ **Email:** komalrajput621097@gmail.com  
-- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
-- 🌍 **Portfolio:** [Your Portfolio Website](https://your-portfolio-link.com)  
 
-✨ *Looking forward to collaborating on exciting projects or joining a team as a Frontend Developer!*  
 
+
+---
+
+### 🌟 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komal-aslam&theme=github_dark" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komal-aslam&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=komal-aslam&theme=transparent&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-aslam&layout=compact&theme=transparent&hide_border=true" width="40%"/>
+</p>
+
+---
+
+### 💼 Featured Projects
+
+| Project | Description | Live |
+|---------|-------------|------|
+| 💎 Jawfex Template | Custom UI for an eCommerce site | [Live Demo](https://komal-aslam.github.io/Jawfex-website-template/) |
+| 🎨 Portfolio (Coming Soon) | Personal animated portfolio | 🚧 Under Construction |
+| 🛍 KokoStore Clone | Shopify-style UI project | 🚧 Coming Soon |
+
+---
+
+### 🎬 Dev Life
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:komal.yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/komal-aslam"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔢 Visitor Counter
+
+<a href="https://orcid.org/0009-0006-5042-8955" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-Profile-green?logo=orcid&style=flat-square" alt="ORCID">
+</a>
+
+
+---
+
+### 💬 Dev Quote
+
+> “Design is not just what it looks like and feels like. Design is how it works.” — *Steve Jobs*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=100&section=footer"/>
+</p>
 
